@@ -1,4 +1,4 @@
-# Task 
+# World Trends 
 You are required to produce a scatterplot depicting Life Expectancy (y-axis) 
 and Fertility Rate (x-axis) statistics by Country. 
 The scatterplot need to be categorised by Countries Regions.
